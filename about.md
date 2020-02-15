@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: https://evanconnelly.com
+permalink: /about/
 ---
 
 Some information about you!
